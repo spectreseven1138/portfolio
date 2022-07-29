@@ -1,0 +1,23 @@
+{
+	"title": "Hello",
+	"subtitle": "World",
+	
+	"projects": [
+		{"name": "SteamGridSync", "year": 2022},
+		{"name": "python-spectre7", "year": 2022},
+		{"name": "MediaPanel", "year": 2022},
+		{"name": "GDBar", "year": 2022},
+		{"name": "Discord-Dark", "year": 2022},
+		{"name": "RE", "year": 2022},
+		{"name": "Kakutroid", "year": 2022},
+		{"name": "Multibot", "year": 2020},
+		{"name": "GameOff 2021", "year": 2021},
+		{"name": "Untitled Dino Game", "year": 2021},
+		{"name": "Godot Metroid Engine", "year": 2021},
+		{"name": "Godot Data Editor", "year": 2021},
+		{"name": "Metroid Engine (original)", "year": 2020},
+		{"name": "Youtube Notifier", "year": 2020},
+		{"name": "Timeline App", "year": 2020},
+		{"name": "DP Personal Project Game", "year": 2021}
+	]
+}
