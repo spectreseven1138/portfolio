@@ -3,7 +3,7 @@
 	"subtitle": "World",
 	
 	"projects": [
-		{"name": "SteamGridSync", "year": 2022},
+		{"name": "SteamGridSync", "year": 2022, "desc": "TEST\nTEST\nTEST", "image": "icon.png"},
 		{"name": "python-spectre7", "year": 2022},
 		{"name": "MediaPanel", "year": 2022},
 		{"name": "GDBar", "year": 2022},

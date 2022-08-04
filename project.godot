@@ -9,13 +9,19 @@
 config_version=4
 
 _global_script_classes=[ {
-"base": "PanelContainer",
+"base": "Control",
 "class": "ProjectPreview",
 "language": "GDScript",
 "path": "res://src/ProjectPreview.gd"
+}, {
+"base": "GridContainer",
+"class": "ResponsiveGridContainer",
+"language": "GDScript",
+"path": "res://src/nodes/ResponsiveGridContainer.gd"
 } ]
 _global_script_class_icons={
-"ProjectPreview": ""
+"ProjectPreview": "",
+"ResponsiveGridContainer": ""
 }
 
 [application]
@@ -24,6 +30,11 @@ config/name="Pulsar"
 run/main_scene="res://src/Main.tscn"
 run/low_processor_mode=true
 config/icon="res://icon.png"
+
+[debug]
+
+gdscript/warnings/narrowing_conversion=false
+gdscript/warnings/return_value_discarded=false
 
 [display]
 
